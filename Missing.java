@@ -1,5 +1,5 @@
  import java.util.*;
- public class Missing {
+ public class Missing {//https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&category=Arrays,Java&sortBy=submissions
     
     int missingNum(int arr[]) {
     
